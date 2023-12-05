@@ -35,7 +35,7 @@ const Login = (setLogged) => {
           className="form_input"
         />
       </label>
-      <div>
+      <div className="flex justify-center">
         <button
           type="submit"
           onClick={() => {
